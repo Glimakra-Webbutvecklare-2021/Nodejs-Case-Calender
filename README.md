@@ -79,9 +79,9 @@ Er redovisning förväntas belysa:
 ## Feedback
 Veckan efter presentation kommer feedback ges under följande rubriker:
 
-Git commits dokumentering
-Användarupplevelse
-Allmän kodstil
-Kodstruktur i relation till Model-View-Controller design mönster
+- Git commits dokumentering
+- Användarupplevelse
+- Allmän kodstil
+- Kodstruktur i relation till Model-View-Controller design mönster
 
 *Design-feedback tillkommer eventuellt från Mattias*

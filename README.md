@@ -47,7 +47,7 @@ Alla krav från Lätt, Svårare och även:
     - Spara lösenorden krypterat
 
 ## 2. Utforma en designskiss
-Genom papper eller annat medium beskriv hur hemsidan ska se ut. Se till att ni kan motivera era desginval. Desginvalen ska kunna motiveras. Frågor som ni bör kunna svara så är följande:
+Genom papper eller annat medium beskriv hur hemsidan ska se ut. Desginvalen ska motiveras. Frågor som ni bör kunna svara så är följande:
 
 * Hur har jag separerat på vardagar och helger?
 * Hur har jag separerat på olika vyer?

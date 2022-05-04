@@ -13,7 +13,7 @@ I detta caset ska ni arbeta *individuellt*. Scenariot är att ni vill lämna Goo
     - Uppdatera ett event
     - Bläddra fram och tillbaka veckovis
 - Ett event ska innehålla:
-    - `titel`
+    - `title`
     - `date`
 - Applikationen ska kunna:
     - Spara/läsa eventen till fil(er)
@@ -28,8 +28,8 @@ Alla krav från Lätt och även:
     - See mer information om ett event om vid klick
 - Ett event ska även innehålla:
     - `description`
-    - `dateStartTime`
-    - `dateEndTime`
+    - `StartTime`
+    - `EndTime`
 - Applikationen ska kunna:
     - Spara/läsa eventen till databas (mongoDB)
 

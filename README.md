@@ -14,21 +14,22 @@ I detta caset ska ni arbeta *individuellt*. Scenariot är att ni vill lämna Goo
     - Bläddra fram och tillbaka veckovis
 - Ett event ska innehålla:
     - `titel`
-    - `startTime`
-    - `endTime`
+    - `date`
 - Applikationen ska kunna:
     - Spara/läsa eventen till fil(er)
+    - Visa minst två olika sidor, varav en sida är kalendern
+    - Visa samma header, footer och navbar på varje sida
 
 #### Svårare
 Alla krav från Lätt och även:
 - En användare ska kunna:
-    - ändra vy mellan Dag/Vecka/Månad
     - registrera flera events på samma dag
     - Responsive Design (Ska fungera även fungera i mobil vy)
     - See mer information om ett event om vid klick
 - Ett event ska även innehålla:
     - `description`
-    - `location`
+    - `dateStartTime`
+    - `dateEndTime`
 - Applikationen ska kunna:
     - Spara/läsa eventen till databas (mongoDB)
 
@@ -36,13 +37,11 @@ Alla krav från Lätt och även:
 Alla krav från Lätt, Svårare och även:
 - En användare ska kunna:
     - Ska behöva logga in med username och password för att få åtkomst.
-    - Sätta alarm på ett event och få notis
-    - Sätta återkommande events
     - Filtrera på event tag
     - Söka på events
 - Ett event ska innehålla:
-    - Tags `[School, Work, Home, None]`
-- Applikationen ska kunna:
+    - `Tags` (School, Work, Home, None)
+    - Applikationen ska kunna:
     - Registrera användare
     - Spara lösenorden krypterat
 
